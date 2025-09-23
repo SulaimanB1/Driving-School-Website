@@ -11,5 +11,3 @@ This is a driving school website built as a template for a driving school. Its f
 - A booking page including a form that sends the necessary information for any customer inquiry.
 
 It was built using React, Tailwind and Vite.
-
-Please feel free to run the project locally.
