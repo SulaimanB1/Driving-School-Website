@@ -1,6 +1,6 @@
 # Driving School Application 🚗
 
-Hello, thank you for checking out this project. I'm currently still working on this project.
+Hello, thank you for checking out this project. It is currently being built.
 
 This is a driving school website built as a template for a driving school. Its features will include:
 
