@@ -15,3 +15,6 @@ This is a driving school website built as a template for a driving school. Its f
 - A booking page including a form that sends the necessary information for any customer inquiry.
 
 <img width="1876" height="864" alt="Screenshot 2025-09-26 150727" src="https://github.com/user-attachments/assets/8300ccbd-b935-4306-be1d-1e30dbcc67e8" />
+
+
+Thank you for checking out the project. Feel free to download and run it using the npm development server!
