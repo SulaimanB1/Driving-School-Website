@@ -26,9 +26,9 @@ export default function Footer() {
 
             <div class="p-5">
                 <h2 class="font-bold text-l pb-3">Location</h2>
-                <p>Hackney Town Hall</p>
-                <p> Mare Street </p>
-                <p> London, E8 1EA </p>
+                <p> Tower Bridge </p>
+                <p> Tower Bridge Road </p>
+                <p> London, SE1 2UP </p>
             </div>
 
             <div class="p-5">

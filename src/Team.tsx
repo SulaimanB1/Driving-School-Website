@@ -6,22 +6,22 @@ export default function Team() {
     {
       title: "Person 1",
       img: Avatar,
-      info: "I'm a fully qualified driving instructor based in Dalston. I have 15+ years as a driving instructor.",
+      info: "I'm a fully qualified driving instructor based in Tower Hamlets. I have 15+ years as a driving instructor.",
     },
     {
       title: "Person 2",
       img: Avatar,
-      info: "I'm a fully qualified driving instructor based in Stoke Newington. I have 12+ years as a driving instructor.",
+      info: "I'm a fully qualified driving instructor based in Hackney. I have 12+ years as a driving instructor.",
     },
     {
       title: "Person 3",
       img: Avatar,
-      info: "I'm a fully qualified driving instructor based in Clapton. I have 8+ years as a driving instructor.",
+      info: "I'm a fully qualified driving instructor based in Southwark. I have 8+ years as a driving instructor.",
     },
     {
       title: "Person 4",
       img: Avatar,
-      info: "I'm a fully qualified driving instructor based in Homerton. I have 10+ years as a driving instructor.",
+      info: "I'm a fully qualified driving instructor based in Islington. I have 10+ years as a driving instructor.",
     }
   ];
 

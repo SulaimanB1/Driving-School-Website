@@ -9,7 +9,7 @@ export const Content = () => (
         About SDS
       </h2>
       <p class="text-x">
-        We're an award winning driving school based in Hackney. Our instructors have over 30+ years
+        We're an award winning driving school based in London. Our instructors have over 30+ years
         of experience and know these roads like the back of their hands. We are ready to teach you
         to drive and prepare you to pass first time. Book a lesson now to begin your journey. 
       </p>
@@ -26,7 +26,7 @@ export const Content = () => (
       <h2 class="pt-10 pb-5 text-xl">
         Our Location
       </h2>
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2481.2632266641835!2d-0.0563459!3d51.545072100000006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761ce51f1c8435%3A0xce84dc63ce310dfb!2sHackney%20Town%20Hall!5e0!3m2!1sen!2suk!4v1758034836959!5m2!1sen!2suk" height="350" class="w-full"></iframe>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2483.4229316965316!2d-0.07535649999999999!3d51.5054564!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487603438b65db49%3A0x9e78421a085a6f2d!2sTower%20Bridge!5e0!3m2!1sen!2suk!4v1758895434527!5m2!1sen!2suk" height="350" class="w-full"></iframe>
     </div>
   </div>
 

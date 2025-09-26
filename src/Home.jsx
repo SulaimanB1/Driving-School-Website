@@ -9,7 +9,7 @@ export const Content = () => (
         <div>
             <div>
                 <h2 class="pt-10 pb-5 text-xl">
-                    Hackney's Best Driving School
+                    London's Best Driving School
                 </h2>
                 <p class="text-x">
                     Automatic and manual lessons to help you pass your driving test first time!
