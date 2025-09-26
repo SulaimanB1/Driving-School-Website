@@ -26,6 +26,7 @@ function App() {
         <TopNav />
 
         <Routes>
+          <Route path="/" element={<Home />} />
           <Route path="/home" element={<Home />} />
           <Route path="/home/pricing" element="#pricing" />
           <Route path="/about" element={<About />} />
