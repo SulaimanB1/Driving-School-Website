@@ -44,7 +44,7 @@ export default function BookLesson() {
                                 isRequired
                                 errorMessage="Please enter a valid name"
                                 label="Name"
-                                labelPlacement="outside"
+                                labelPlacement="inside"
                                 name="name"
                                 placeholder="Enter your name"
                                 type="text"
@@ -54,7 +54,7 @@ export default function BookLesson() {
                                 isRequired
                                 errorMessage="Please enter a valid email"
                                 label="Email"
-                                labelPlacement="outside"
+                                labelPlacement="inside"
                                 name="email"
                                 placeholder="Enter your email"
                                 type="email"
@@ -66,7 +66,7 @@ export default function BookLesson() {
                                 isRequired
                                 errorMessage="Please enter a valid phone number"
                                 label="Phone Number"
-                                labelPlacement="outside"
+                                labelPlacement="inside"
                                 name="phone_number"
                                 placeholder="Enter your phone number"
                                 type="tel"
@@ -76,7 +76,7 @@ export default function BookLesson() {
                                 isRequired
                                 errorMessage="Please enter a postcode"
                                 label="Postcode"
-                                labelPlacement="outside"
+                                labelPlacement="inside"
                                 name="postcode"
                                 placeholder="Enter your postcode"
                                 type="text"
@@ -85,7 +85,7 @@ export default function BookLesson() {
                             <Select
                                 isRequired
                                 label="Automatic or Manual?"
-                                labelPlacement="outside"
+                                labelPlacement="inside"
                                 placeholder="Select a transmission"
                                 name="transmission"
                             >
@@ -96,13 +96,13 @@ export default function BookLesson() {
                             
                             <Textarea
                                 isRequired
+                                label="Message"
+                                labelPlacement="inside"
                                 errorMessage="Please enter a message"
                                 classNames={{
                                     base: "max-w-xs",
                                     input: "resize-y min-h-[40px]",
                                 }}
-                                label="Message"
-                                labelPlacement="inside"
                                 name="message"
                                 placeholder="Enter your message"
                                 type="text"
